@@ -1,0 +1,20 @@
+<style>
+body {
+  background-color:#ffed00;
+  font-family: sans-serif;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 350px;
+  margin: 0 auto;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+</style>
